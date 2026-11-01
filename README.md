@@ -1,4 +1,4 @@
-**This is an FBLA project for the Website Design category.**
+**This is an FBLA project for the Website Design category.**\
 Created by Audrey Wang and Max Luo
 
 **Prompt:**\
@@ -8,4 +8,4 @@ You must create a website to promote this arena. The website should include the 
    • A calendar of events\
    • A box office area to purchase tickets\
    • An information area that includes directions, seating charts, policies, and amenities\
-   • A planner page that includes information on arena rental, contacts, etc.\
+   • A planner page that includes information on arena rental, contacts, etc.
